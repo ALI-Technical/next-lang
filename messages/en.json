@@ -1,0 +1,16 @@
+{
+    "IndexPage": {
+        "title": "Next-Intl App!",
+        "description":"Welcome to the Next.js Internationalized App!"
+    },
+    "NotFoundPage": {
+        "title": "Page not Found",
+        "description": "Oops! It seems you're lost"
+    },
+    "Navigation": {
+        "home": "Home"
+    },
+    "Footer": {
+        "copyright": "© 2024 Next-Intl App. All rights reserved."
+    }
+}

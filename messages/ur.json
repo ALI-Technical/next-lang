@@ -1,0 +1,16 @@
+{
+    "IndexPage": {
+        "title": "!متعدد زبان کی ایپ",
+        "description":"!بین الاقوامی ایپ میں خوش آمدید"
+    },
+    "NotFoundPage": {
+        "title": "صفحہ نہیں ملا",
+        "description": "ایسا لگتا ہے کہ آپ کھو گئے ہیں"
+    },
+    "Navigation": {
+        "home": "گھر"
+    },
+    "Footer": {
+        "copyright": "© 2024 ایپ۔ جملہ حقوق محفوظ ہیں."
+    }
+}
